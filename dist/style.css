@@ -1,0 +1,70 @@
+#title {
+  text-align: center;
+  padding-top: 40px;
+  font-size: 50px;
+  font-weight: 500;
+}
+
+#subtitle {
+  text-align: center;
+  padding-bottom: 25px;
+  margin-top: -20px;
+  font-weight: 500;
+}
+
+#title,
+#subtitle {
+  color: rgb(44, 40, 33);
+  font-family: Montserrat, sans-serif;
+}
+
+#image {
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+}
+
+#img-caption {
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+  margin-top: 10px;
+}
+
+#tribute-info {
+  background-color: hsl(50, 15%, 92%);
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+  border-radius: 10px;
+}
+
+#tribute-info ul {
+  text-align: left;
+  line-height: 1.6;
+  margin: 0 auto 50px auto;
+  max-width: 550px;
+}
+
+#tribute-info h2 {
+  color: rgb(44, 40, 33);
+  font-weight: 600;
+  padding-top: 20px;
+}
+
+.moral {
+  font-style: italic;
+}
+
+.url {
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+a:hover {
+  color: rgb(44, 40, 33);
+}
+
+header {
+  background-color: hsl(50, 15%, 92%);
+  border-radius: 10px;
+}
